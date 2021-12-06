@@ -44,7 +44,7 @@
    {
       "name":"ASOS DESIGN",
       "avatar":"https://images.asos-media.com/products/asos-design-pearl-embellished-maxi-dress-with-thigh-high-splits/13244747-1-nude?$n_480w$&wid=476&fit=constrain",
-      "price":"120.00",
+      "price":"50.00",
       "size":[
          
       ],
